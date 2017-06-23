@@ -26,7 +26,7 @@ publish {
     artifactId = 'xrefreshview'
     publishVersion = '1.0.1'
     desc = 'This is a simple pulldown-loadmore-refresh view。'
-    website = 'https://github.com/Android-MI/XCountDownTimer.git'
+    website = 'https://github.com/Android-MI/XPullRefreshAndLoad'
 }
 dependencies {
     compile 'com.android.support:recyclerview-v7:25.3.1'
